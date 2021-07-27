@@ -1,5 +1,5 @@
-console.log("feature done");
+console.log("new-feature-3");
 
-console.log("I am admin");
+console.log("three");
 
-console.log("I rule the code");
+console.log("three is awesome");
