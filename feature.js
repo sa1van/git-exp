@@ -1,5 +1,5 @@
-console.log("new-feature-2");
+console.log("new-feature-1");
 
-console.log("two");
+console.log("one");
 
-console.log("two is awesome");
+console.log("one is awesome");
