@@ -6,4 +6,4 @@ console.log("I rule the code");
 
 console.log("I am the king here");
 
-let arr=['leader'];
+let arr=['leader','ruler'];
