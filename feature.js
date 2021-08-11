@@ -7,3 +7,7 @@ console.log("I rule the code");
 console.log("I am the king here");
 
 let arr=['leader','ruler'];
+
+
+
+let s="writing something stupid and you stupid still reading";
