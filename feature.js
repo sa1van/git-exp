@@ -13,3 +13,10 @@ let arr=['leader','ruler'];
 let s="writing something stupid and you stupid still reading";
 
 let random="writing from github"
+
+
+
+
+
+
+console.log("shhhhhh");
