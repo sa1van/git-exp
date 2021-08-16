@@ -11,3 +11,5 @@ let arr=['leader','ruler'];
 
 
 let s="writing something stupid and you stupid still reading";
+
+let add="1"+1;
