@@ -23,3 +23,5 @@ console.log("shhhhhh");
 console.log("wo");
 console.log("amazing");
 console.log("BumBum");
+
+let arr=[1];
