@@ -25,3 +25,4 @@ console.log("amazing");
 console.log("BumBum");
 
 let arr=[1];
+let arr=[2];
